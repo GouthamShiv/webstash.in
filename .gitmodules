@@ -1,3 +1,6 @@
 [submodule "coming-soon"]
 	path = coming-soon
 	url = https://github.com/GouthamShiv/coming-soon.git
+[submodule "webstash-01"]
+	path = webstash-01
+	url = git@github.com:GouthamShiv/webstash-01.git
