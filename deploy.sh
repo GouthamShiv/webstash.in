@@ -8,6 +8,8 @@ echo "Removing webstash image";
 docker rmi gouthamshiv/webstash;
 echo "pulling latest source-code for webstash";
 git stash && git pull origin master;
+echo "Update submodules";
+git submodule update --init --recursive;
 echo "Copy external assets";
 cp -R ../external-assets/* ./img;
 echo "Building webstash image using latest source-code";
