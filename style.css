@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(90deg, rgb(36, 75, 133), rgb(87, 87, 87));
+  font-family: "Roboto", sans-serif;
+}
+
+#brand {
+  font-size: 32px;
+  color: lightgreen;
+  transition: 0.4s ease-in-out;
+}
+
+#icons {
+  margin: auto;
+  font-size: 16px;
+  color: lightgreen;
+}
+
+#brand:hover {
+  cursor: pointer;
+  letter-spacing: 3px;
+}
+
+#footerBrand {
+  color: lightgreen;
+}
+
+.card {
+  min-height: 350px;
+}
+
+a #github {
+  color: black;
+  text-decoration: none;
+}
