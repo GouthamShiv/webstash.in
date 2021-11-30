@@ -105,3 +105,6 @@ dist
 
 # video file
 *.mp4
+
+# VSCode 
+.vscode/
