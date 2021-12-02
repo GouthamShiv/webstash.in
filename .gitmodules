@@ -28,3 +28,6 @@
 [submodule "webstash-08"]
 	path = webstash-08
 	url = https://github.com/GouthamShiv/webstash-08.git
+[submodule "webstash-09"]
+	path = webstash-09
+	url = https://github.com/GouthamShiv/webstash-09.git
