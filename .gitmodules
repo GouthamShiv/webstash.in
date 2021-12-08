@@ -34,3 +34,6 @@
 [submodule "webstash-10"]
 	path = webstash-10
 	url = git@github.com:GouthamShiv/webstash-10.git
+[submodule "webstash-11"]
+	path = webstash-11
+	url = git@github.com:GouthamShiv/webstash-11.git
