@@ -5,6 +5,7 @@
 }
 
 body {
+    position: relative;
     font-family: 'Poppins', sans-serif;
     background-color: black;
 }
@@ -63,4 +64,27 @@ footer {
 #description {
     margin-top: 40px;
     margin-left: 75px;
+}
+
+.home-btn {
+    top: 5px;
+    left: 10px;
+    width: 75px;
+    height: 30px;
+    z-index: 100;
+    padding: 5px;
+    position: fixed;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #ffc107;
+}
+
+.home-btn:hover {
+    opacity: 0.9;
+}
+
+.home-btn a {
+    color: black;
+    text-decoration: none;
 }
