@@ -9,13 +9,13 @@
     <link rel="icon" type="image/png" sizes="32x32" href="../img/app/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="../img/app/favicon-16x16.png">
     <link rel="manifest" href="../img/app/site.webmanifest">
-    <!-- <link rel="icon" type="image/x-icon" href="./img/app/favicon.ico"> -->
+    <!-- <link rel="icon" type="image/x-icon" href="../img/app/favicon.ico"> -->
     <!-- <script src="https://kit.fontawesome.com/e72a4ca6a8.js" crossorigin="anonymous"></script> -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
         integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
         integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../style.css">
     <title>webstash</title>
 </head>
 
@@ -27,7 +27,7 @@
             <div class="row d-flex justify-content-between">
                 <div class="col-md-12 d-flex justify-content-between">
                     <a id="brand" href="https://webstash.in" class="navbar-brand">
-                        <img id="logo" src="./img/app/logo.png" alt="webstash">
+                        <img id="logo" src="../img/app/logo.png" alt="webstash">
                     </a>
                     <div id="description">
                         <p class="h3 text-white mt-3 text-warning">Live demo of Apps & mini projects</p>
@@ -43,28 +43,19 @@
         <div class="container">
             <!-- FIRST ROW -->
             <div class="row justify-content-center mb-3">
-                <div class="col-md-6">
+                <div class="col-md-3">
                     <div class="card">
-                        <img class="card-img-top" src="./img/python/main.png" alt="">
-                        <div class="card-body text-center">
-                            <h4 class="card-title">Python - ML - AI</h4>
-                            <small class="card-text text-muted">Content related to <i>Python, ML & AI</i>
+                        <img class="card-img-top" src="../img/python/01.png" alt="Salary Prediction App">
+                        <div class="card-body">
+                            <h4 class="card-title">Salary Prediction App</h4>
+                            <small class="card-text">Simple regression model, WebApp created using <i>streamlit</i> 
                             </small>
                         </div>
                         <div class="card-footer d-flex justify-content-between">
-                            <a class="btn btn-dark btn-block" href="./pam/index.html">Open Stash</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="card">
-                        <img class="card-img-top" src="./img/html/main.png" alt="">
-                        <div class="card-body text-center">
-                            <h4 class="card-title">HTML - CSS - JS</h4>
-                            <small class="card-text text-muted">Content related to <i>HTML, CSS & JS</i></small>
-                        </div>
-                        <div class="card-footer d-flex justify-content-between">
-                            <a class="btn btn-dark btn-block" href="./hcj/index.html">Open Stash</a>
+                            <a target="_blank" class="btn btn-dark" href="https://app.webstash.in/pam/01">Live
+                                Demo</a>
+                            <a id="github" target="_blank" href="https://github.com/GouthamShiv/ML-salaryPrediction"><i
+                                    class="fab fa-github fa-2x"></i></a>
                         </div>
                     </div>
                 </div>
@@ -77,7 +68,8 @@
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <p class="h5 text-dark">Copyright &copy; <span id="year" class="mr-3"></span> <span class="text-warning">WEBSTASH.IN</span></p>
+                    <p class="h5 text-dark">Copyright &copy; <span id="year" class="mr-3"></span> <span
+                            class="text-warning">WEBSTASH.IN</span></p>
                 </div>
             </div>
         </div>
