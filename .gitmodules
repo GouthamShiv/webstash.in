@@ -4,9 +4,6 @@
 [submodule "webstash-01"]
 	path = hcj/webstash-01
 	url = https://github.com/GouthamShiv/webstash-01.git
-[submodule "webstash-01A"]
-	path = hcj/webstash-01A
-	url = https://github.com/GouthamShiv/webstash-01A.git
 [submodule "webstash-02"]
 	path = hcj/webstash-02
 	url = https://github.com/GouthamShiv/webstash-02.git
