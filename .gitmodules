@@ -1,102 +1,105 @@
-[submodule "coming-soon"]
+[submodule "hcj/coming-soon"]
 	path = hcj/coming-soon
 	url = https://github.com/GouthamShiv/coming-soon.git
-[submodule "webstash-01"]
+[submodule "hcj/webstash-01"]
 	path = hcj/webstash-01
 	url = https://github.com/GouthamShiv/webstash-01.git
-[submodule "webstash-02"]
+[submodule "hcj/webstash-02"]
 	path = hcj/webstash-02
 	url = https://github.com/GouthamShiv/webstash-02.git
-[submodule "webstash-03"]
+[submodule "hcj/webstash-03"]
 	path = hcj/webstash-03
 	url = https://github.com/GouthamShiv/webstash-03.git
-[submodule "webstash-04"]
+[submodule "hcj/webstash-04"]
 	path = hcj/webstash-04
 	url = https://github.com/GouthamShiv/webstash-04.git
-[submodule "webstash-05"]
+[submodule "hcj/webstash-05"]
 	path = hcj/webstash-05
 	url = https://github.com/GouthamShiv/webstash-05.git
-[submodule "webstash-06"]
+[submodule "hcj/webstash-06"]
 	path = hcj/webstash-06
 	url = https://github.com/GouthamShiv/webstash-06.git
-[submodule "webstash-07"]
+[submodule "hcj/webstash-07"]
 	path = hcj/webstash-07
 	url = https://github.com/GouthamShiv/webstash-07.git
-[submodule "webstash-08"]
+[submodule "hcj/webstash-08"]
 	path = hcj/webstash-08
 	url = https://github.com/GouthamShiv/webstash-08.git
-[submodule "webstash-09"]
+[submodule "hcj/webstash-09"]
 	path = hcj/webstash-09
 	url = https://github.com/GouthamShiv/webstash-09.git
-[submodule "webstash-10"]
+[submodule "hcj/webstash-10"]
 	path = hcj/webstash-10
 	url = https://github.com/GouthamShiv/webstash-10.git
-[submodule "webstash-11"]
+[submodule "hcj/webstash-11"]
 	path = hcj/webstash-11
 	url = https://github.com/GouthamShiv/webstash-11.git
-[submodule "webstash-12"]
+[submodule "hcj/webstash-12"]
 	path = hcj/webstash-12
 	url = https://github.com/GouthamShiv/webstash-12.git
-[submodule "webstash-13"]
+[submodule "hcj/webstash-13"]
 	path = hcj/webstash-13
 	url = https://github.com/GouthamShiv/webstash-13.git
-[submodule "webstash-14"]
+[submodule "hcj/webstash-14"]
 	path = hcj/webstash-14
 	url = https://github.com/GouthamShiv/webstash-14.git
-[submodule "webstash-15"]
+[submodule "hcj/webstash-15"]
 	path = hcj/webstash-15
 	url = https://github.com/GouthamShiv/webstash-15.git
-[submodule "webstash-16"]
+[submodule "hcj/webstash-16"]
 	path = hcj/webstash-16
 	url = https://github.com/GouthamShiv/webstash-16.git
-[submodule "webstash-17"]
+[submodule "hcj/webstash-17"]
 	path = hcj/webstash-17
 	url = https://github.com/GouthamShiv/webstash-17.git
-[submodule "webstash-18"]
+[submodule "hcj/webstash-18"]
 	path = hcj/webstash-18
 	url = https://github.com/GouthamShiv/webstash-18.git
-[submodule "webstash-19"]
+[submodule "hcj/webstash-19"]
 	path = hcj/webstash-19
 	url = https://github.com/GouthamShiv/webstash-19.git
-[submodule "webstash-20"]
+[submodule "hcj/webstash-20"]
 	path = hcj/webstash-20
 	url = https://github.com/GouthamShiv/webstash-20.git
-[submodule "webstash-21"]
+[submodule "hcj/webstash-21"]
 	path = hcj/webstash-21
 	url = https://github.com/GouthamShiv/webstash-21.git
-[submodule "webstash-22"]
+[submodule "hcj/webstash-22"]
 	path = hcj/webstash-22
 	url = https://github.com/GouthamShiv/webstash-22.git
-[submodule "webstash-23"]
+[submodule "hcj/webstash-23"]
 	path = hcj/webstash-23
 	url = https://github.com/GouthamShiv/webstash-23.git
-[submodule "webstash-24"]
+[submodule "hcj/webstash-24"]
 	path = hcj/webstash-24
 	url = https://github.com/GouthamShiv/webstash-24.git
-[submodule "webstash-25"]
+[submodule "hcj/webstash-25"]
 	path = hcj/webstash-25
 	url = https://github.com/GouthamShiv/webstash-25.git
-[submodule "webstash-26"]
+[submodule "hcj/webstash-26"]
 	path = hcj/webstash-26
 	url = https://github.com/GouthamShiv/webstash-26.git
-[submodule "webstash-27"]
+[submodule "hcj/webstash-27"]
 	path = hcj/webstash-27
 	url = https://github.com/GouthamShiv/webstash-27.git
-[submodule "webstash-28"]
+[submodule "hcj/webstash-28"]
 	path = hcj/webstash-28
 	url = https://github.com/GouthamShiv/webstash-28.git
-[submodule "webstash-29"]
+[submodule "hcj/webstash-29"]
 	path = hcj/webstash-29
 	url = https://github.com/GouthamShiv/webstash-29.git
-[submodule "webstash-30"]
+[submodule "hcj/webstash-30"]
 	path = hcj/webstash-30
 	url = https://github.com/GouthamShiv/webstash-30.git
-[submodule "webstash-31"]
+[submodule "hcj/webstash-31"]
 	path = hcj/webstash-31
 	url = https://github.com/GouthamShiv/webstash-31.git
-[submodule "webstash-32"]
+[submodule "hcj/webstash-32"]
 	path = hcj/webstash-32
 	url = https://github.com/GouthamShiv/webstash-32.git
-[submodule "webstash-33"]
+[submodule "hcj/webstash-33"]
 	path = hcj/webstash-33
 	url = https://github.com/GouthamShiv/webstash-33.git
+[submodule "hcj/webstash-01A"]
+	path = hcj/webstash-01A
+	url = https://github.com/GouthamShiv/webstash-01A.git
