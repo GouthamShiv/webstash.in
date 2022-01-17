@@ -103,3 +103,6 @@
 [submodule "hcj/webstash-01A"]
 	path = hcj/webstash-01A
 	url = https://github.com/GouthamShiv/webstash-01A.git
+[submodule "hcj/webstash-34"]
+	path = hcj/webstash-34
+	url = https://github.com/GouthamShiv/webstash-34.git
