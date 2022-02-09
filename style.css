@@ -125,6 +125,11 @@ footer {
     font-family: 'Neucha', cursive;
 }
 
+.bs-text {
+    color: purple;
+    font-weight: 400;
+}
+
 @media (max-width: 736px) {
     .nav .container {
         display: none;
