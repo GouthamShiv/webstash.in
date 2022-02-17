@@ -67,6 +67,10 @@ a #github {
     max-height: 400px;
 }
 
+.card-img-top.njs {
+    max-height: 270px;
+}
+
 footer {
     left: 0;
     bottom: 0;
@@ -137,6 +141,21 @@ footer {
 
 .angular-text {
     color: red;
+    font-weight: 400;
+}
+
+.ts-text {
+    color: steelblue;
+    font-weight: 400;
+}
+
+.nodejs-text {
+    color: green;
+    font-weight: 400;
+}
+
+.heroku-text {
+    color: purple;
     font-weight: 400;
 }
 

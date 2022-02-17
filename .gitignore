@@ -106,5 +106,7 @@ dist
 # video file
 *.mp4
 
-# VSCode 
+# VSCode
 .vscode/
+
+.dccache
