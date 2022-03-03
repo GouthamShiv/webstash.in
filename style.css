@@ -9,6 +9,7 @@
 body {
     position: relative;
     background-color: black;
+    justify-content: space-around;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -22,7 +23,8 @@ body {
     background-color: black !important;
 }
 
-.nav .container {
+.nav .main {
+    width: 100%;
     display: flex;
     padding: 20px 0;
     align-items: center;
@@ -34,7 +36,6 @@ body {
     margin-right: 75px;
     align-items: center;
     list-style-type: none;
-    justify-content: center;
 }
 
 .site-name-sm {
@@ -73,7 +74,7 @@ a #github {
 }
 
 .card-body {
-    min-height: 128px;
+    min-height: 152px;
 }
 
 footer {
@@ -118,7 +119,8 @@ footer {
 }
 
 #actions {
-    margin-top: 120px;
+    margin-top: 160px;
+    justify-content: center;
 }
 
 .copy {
@@ -126,11 +128,13 @@ footer {
     font-family: 'Neucha', cursive;
 }
 
-.sign {
+.sign,
+.sign:hover {
     color: tomato;
     font-size: 28px;
     font-weight: bold;
     letter-spacing: 2px;
+    text-decoration: none;
     font-family: 'Tangerine', cursive;
 }
 
@@ -169,8 +173,8 @@ footer {
     box-shadow: inset -3px -3px 5px #ffffff70, inset 3px 3px 15px #77777770;
 }
 
-@media (max-width: 736px) {
-    .nav .container {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
+    .nav .main {
         display: none;
     }
 
@@ -193,16 +197,16 @@ footer {
     }
 
     .card {
+        max-width: 300px;
         margin-top: 15px;
-        max-height: 300px;
+        max-height: 480px;
+    }
+
+    .card-body {
+        min-height: 128px;
     }
 
     .card-img-top {
-        max-height: 200px;
-    }
-
-    .card-img-top.angular {
-        margin: 30px 0 30px 0;
         max-height: 200px;
     }
 
@@ -217,10 +221,12 @@ footer {
         justify-content: center;
     }
 
-    .sign {
+    .sign,
+    .sign:hover {
         font-size: 24px;
         padding-top: 5px;
         text-align: center;
+        text-decoration: none;
         justify-content: center;
     }
 
