@@ -11,9 +11,10 @@ const main = document.getElementById('main');
 getMovies(API_URL);
 
 async function getMovies(url) {
-    const res = await fetch(url);
+    const res = await await fetch(url);
     const data = await res.json();
-    showMovies(data.results);
+    const resultArr = await data.results;
+    showMovies(resultArr);
 }
 
 function showMovies(movies) {
