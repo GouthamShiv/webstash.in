@@ -163,9 +163,6 @@
 [submodule "hcj/webstash-53"]
 	path = hcj/webstash-53
 	url = https://github.com/GouthamShiv/webstash-53.git
-[submodule "bs"]
-	path = bs
-	url = https://github.com/GouthamShiv/udemy-bootstrap.git
 [submodule "bootstrap"]
 	path = bootstrap
 	url = https://github.com/GouthamShiv/udemy-bootstrap.git
